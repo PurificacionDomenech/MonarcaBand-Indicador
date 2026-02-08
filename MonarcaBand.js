@@ -1,5 +1,3 @@
-
-MonarcaBand_Fixed.js
 // =============================================================================
 // INDICADOR: Monarch Band (Versión Corregida para Liquid Charts Pro)
 // Autor: Purificación Santana
@@ -96,3 +94,4 @@ UDI.onCalculate = function(data, output) {
             }
         }
     }
+
